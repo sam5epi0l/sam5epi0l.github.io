@@ -1,17 +1,17 @@
 console.log("Dear reader");
 console.log("This site is open-source!");
 console.log(
-  "You can find it here: https://github.com/davidfegyver/davidfegyver.github.io"
+  "You can find it here: https://github.com/sam5epi0l/sam5epi0l.github.io"
 );
 console.log("Please give me a star if you like it :D ");
 const spinner = document.getElementById("data-spinner");
 const datalist = [
   "Programmer",
-  "Backend dev",
-  "BountyHunter",
-  "I <3 JS",
-  "Pokemon Go player",
-  "C^3 winner",
+  "Hacker",
+  "BountyHunter (maybe)",
+  "I <3 Computers (espacially linux)",
+  "CTF player",
+  "Open Source",
 ];
 headeranim(datalist, spinner);
 
